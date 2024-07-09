@@ -1,0 +1,36 @@
+//  Runset file generated on Mon Jun 24 01:00:38 2024
+//  by Calibre Interactive v2022.4_37.20    Fri Dec 2 17:41:17 PST 2022
+//
+//      *** PLEASE DO NOT MODIFY THIS FILE ***
+//
+//
+
+lvs.rulesFile.value = "/opt/pdk/scl_pdk/design_kit/drclvs_rsf/LVS.header"
+lvs.layout.layoutFile.value = "sense_amplifier.calibre.db"
+cmn.layout.defFiles.value = [ "sense_amplifier.def" ]
+lvs.layout.topCellLibrary.value = "ohm"
+cmn.layout.topCellLibraryFDI.value = "ohm"
+lvs.layout.topCell.value = "sense_amplifier"
+lvs.layout.topCellView.value = "layout"
+cmn.layout.topCellViewFDI.value = "layout"
+lvs.layout.layoutNetlist.value = "sense_amplifier.sp"
+lvs.source2.sourceFile.value = "sense_amplifier.sp"
+lvs.source2.topCellLibrary.value = "ohm"
+lvs.source2.topCellLibraryFDI.value = "ohm"
+lvs.source2.topCell.value = "sense_amplifier"
+lvs.source2.topCellFDI.value = "sense_amplifier"
+lvs.source2.topCellView.value = "schematic"
+lvs.source2.topCellViewFDI.value = "schematic"
+lvs.source.sourceFile.value = "sense_amplifier.src.net"
+lvs.source.topCellLibrary.value = "ohm"
+lvs.source.topCellLibraryFDI.value = "ohm"
+lvs.source.topCell.value = "sense_amplifier"
+lvs.source.topCellFDI.value = "sense_amplifier"
+lvs.source.topCellView.value = "schematic"
+lvs.source.topCellViewFDI.value = "schematic"
+lvs.lvsExpandOnError.expand.value = "YES"
+lvs.lvsExpandOnError.expand.specified = true
+lvs.reports.lvsReport.value = "sense_amplifier.lvs.report"
+lvs.ercdb.resultsFile.value = "sense_amplifier.erc.results"
+lvs.ercSummaryReport.report.value = "sense_amplifier.erc.summary"
+

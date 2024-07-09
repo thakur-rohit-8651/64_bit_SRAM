@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      akanksha
+HostName                       nsdcs
+ProcessIdentifier              32686
+ProcessCreationTime_UTC        1719600415
+ProcessCreationTime_Readable   Sat Jun 29 00:16:55 2024 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/akanksha/cadence/rohit/write_dv_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Jul  1 10:44:22 2024 IST
